@@ -5,7 +5,7 @@ JajanJalan is an application designed for street vendors, offering robust featur
 
 ## Cloud Architecture using GCP
 ![CC Architeture](https://github.com/JajanJalan-Bangkit2023/.github/blob/main/Screenshot%202023-12-22%20121910.png)
-![CI/CD](https://github.com/JajanJalan-Bangkit2023/.github/blob/main/Screenshot%202023-12-22%20121910.png)
+![CI/CD](https://github.com/JajanJalan-Bangkit2023/.github/blob/main/Screenshot%202023-12-22%20122255.png)
 
 ## Resource
 Our project repository
