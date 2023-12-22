@@ -1,5 +1,7 @@
 # Bangkit 2023 Capstone Product-based (CH2-PS116)
 ## JajanJalan : Empowering Street Vendors
+![JajanJalan Bg](https://github.com/JajanJalan-Bangkit2023/.github/blob/main/poster.png)
+JajanJalan is an application designed for street vendors, offering robust features such as real-time location tracking and a recommendation system. Our goal is to expand market reach and boost the sales of these sellers. JajanJalan aligns with the government's "UMKM Go Digital" initiative, contributing to the digitalization of micro, small, and medium enterprises.
 
 ## Our Team
 Bangkit ID | Name | University | Learning Path
